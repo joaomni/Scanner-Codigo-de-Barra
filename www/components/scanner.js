@@ -28,7 +28,7 @@ function scanBarcode() {
     }
 
 $(document).on('click','#test', function(){
- location.href = "ipad.html";//Ir para outra pagina
+ location.href = "asus.html";//Ir para outra pagina
 });
 
 $(document).on('click','#voltar', function(){
