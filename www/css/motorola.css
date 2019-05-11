@@ -1,0 +1,22 @@
+/* Style Tag */
+
+body{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(rgb(15, 79, 139),rgb(101, 148, 165),rgb(5, 109, 207));
+  min-height: 100vh;
+}
+
+h1{
+  font-size: 25px;
+  color: white;
+}
+
+h4{
+  color: white;
+}
+
+label{
+  color: white;
+  font-size: 14px;
+}

@@ -3,12 +3,14 @@
 body{
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: linear-gradient(rgb(32, 115, 209), white,rgb(32, 115, 209));
+  background: linear-gradient(rgb(32, 115, 209), white,rgb(32, 115, 209));
+  min-height: 100vh;
 }
 
 h2{
   color: white;
   font-size: 25px;
+  text-shadow: 4px 4px 2px black;
 }
 
 h5{
@@ -16,6 +18,7 @@ h5{
   color: white;
   margin-top: 10%;
   font-size: 20px;
+  text-shadow: 4px 4px 2px black;
 }
 
 img{
