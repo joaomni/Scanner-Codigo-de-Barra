@@ -27,8 +27,20 @@ function scanBarcode() {
 
     }
 
-$(document).on('click','#test', function(){
- location.href = "asus.html";//Ir para outra pagina
+$(document).on('click','#btn1', function(){
+ location.href = "ipad.html";
+});
+
+$(document).on('click','#btn2', function(){
+ location.href = "samsung.html";
+});
+
+$(document).on('click','#btn3', function(){
+ location.href = "motorola.html";
+});
+
+$(document).on('click','#btn4', function(){
+ location.href = "asus.html";
 });
 
 $(document).on('click','#voltar', function(){
